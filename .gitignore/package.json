@@ -1,5 +1,5 @@
 {
-  "name": "Sora",
+  "name": "sora-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.1.0", 
+    "async": "^2.5.0",
+    "asyncawait": "^1.0.6",
+    "discord.js": "^11.1.0",
+    "discord.js-arbitrary-ffmpeg": "^1.0.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "0.0.3",
+    "prefix": "!",
+    "request": "^2.81.0",
+    "token": "MzM3MzQ3NTU5ODg4NTE5MTY4.DFFi7Q.YrsUS762VkpiP8GwU6WwNAg69GU",
+    "youtube-info": "^1.1.1",
+    "yt_api_key": "AIzaSyCPCUsqY4I55P2AN76KR68T6hmkGYCjCnc",
+    "ytdl-core": "^0.14.4"
   },
   "engines": {
     "node": "6.11.1"

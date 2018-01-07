@@ -23,5 +23,8 @@
     "youtube-info": "^1.1.1",
     "yt_api_key": "AIzaSyCPCUsqY4I55P2AN76KR68T6hmkGYCjCnc",
     "ytdl-core": "^0.14.4"
+  },
+  "engines": {
+    "node": "6.11.1"
   }
 }
